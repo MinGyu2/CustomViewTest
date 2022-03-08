@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomViewTest</string>
+    <string name="my_title1">제목1</string>
+    <string name="my_title2">제목2</string>
+    <string name="my_title3">제목3</string>
+    <string name="my_hint1">힌트1</string>
+    <string name="my_hint2">힌트2</string>
+    <string name="my_hint3">힌트3</string>
+    <string name="my_hint4">힌트4</string>
+</resources>

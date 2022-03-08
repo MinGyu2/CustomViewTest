@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="my_custom_title" format="reference"/>
+        <attr name="my_custom_hint" format="reference"/>
+        <attr name="my_custom_switch" format="boolean"/>
+    </declare-styleable>
+</resources>
